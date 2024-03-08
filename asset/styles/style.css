@@ -2,12 +2,17 @@
     padding: 0;
     margin: 0;
     background-color: darkgreen;
-    .roboto-bold {
-        font-family: "Roboto", sans-serif;
-        font-weight: 700;
-        font-style: normal;
-      }
-      
+    font-family: "Roboto", sans-serif;
+
+}
+.top-header{
+    padding-top: 10%;
+    font-size: large;
+    position: relative ;
+    color: #ffffff;
+    font: 900;
+    justify-content: center;
+    text-align: center;
 }
 .game-area{
     width: 50%;
@@ -21,11 +26,6 @@
 }
 .scores{
     color: #ffffff;
-    background-color: darkolivegreen;
-    .roboto-bold {
-        font-family: "Roboto", sans-serif;
-        font-weight: 700;
-        font-style: normal;
-      }
-
+    font-weight: 600;
 }
+
